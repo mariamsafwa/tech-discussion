@@ -8,6 +8,7 @@ This is a demo repo for sharing ideas around communication
 * two
 * three
 
-###Gist
+### Gist
+
 
 This is a good example of [my code] (https://gist.github.com/mariamsafwa/45068b665691ae728435832b0a2df3cf)
